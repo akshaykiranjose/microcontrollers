@@ -1,2 +1,2 @@
- [ ] PWM signalling with symbols
- [ ] continuous sampling over SymbolPeriod
+- [X] PWM signalling with symbols
+- [X] continuous sampling over SymbolPeriod
